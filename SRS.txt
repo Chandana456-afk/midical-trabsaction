@@ -1,0 +1,16 @@
+medicion transaction
+
+INTRODUCTION: Medical is the important aspect for a human life
+
+PURPOSE: The main purpose is to provide the best of all and expected medicnes and other things required for well bveing of people
+
+SCOPE AND OBJECTIVE: The scope is to have all kinds of medicne and injections available at best cost
+
+FUNCTIONAL REQUIREMENTS: To have the availibilty of useful medicines with different vatieties
+To know about the expiry
+ TO serve people the best medicine
+
+USER INTERFACE:
+.The user should be able to recognize the best quality
+.user should know what type of meedicine to consume prescribed
+ 
